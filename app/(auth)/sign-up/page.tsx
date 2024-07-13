@@ -1,8 +1,15 @@
+import AuthForm from '@/components/AuthForm'
 import React from 'react'
-
-const SignUp = () => {
+import { getLoggedInUser } from '@/lib/actions/user.actions';
+const SignUp  = () => {
+  const LoggedInUser = async () =>
+     await getLoggedInUser();
+  console.log(LoggedInUser)
   return (
-    <div>SignUp</div>
+    <section className='flex-center 
+    size-full max-sm:px-6'>
+      <AuthForm type='sign-up' />
+    </section>
   )
 }
 
