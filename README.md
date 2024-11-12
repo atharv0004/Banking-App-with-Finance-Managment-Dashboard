@@ -24,9 +24,13 @@ authentication, database, storage, and functions.
 Screenshots
 Here are some glimpses of our app:
 ![login](https://github.com/user-attachments/assets/c287bdf3-74fe-4612-9c36-45ee1f0b6523)
+
 ![HomePage](https://github.com/user-attachments/assets/a9656e85-f9d4-4261-aca5-8a3a71d0df10)
+
 ![MyBanks](https://github.com/user-attachments/assets/10671487-c34c-4a30-8ca6-18bae8475302)
-![FundTransfer](https://github.com/user-attachments/assets/d76a7284-77ca-41ce-a3f6-b5cbb42c6fda)
+
+![FundTransfer](https://github.com/user-attachments/assets/9a873f0a-22d6-4f9e-ba82-588e01476a08)
+
 ![TransactionHistory](https://github.com/user-attachments/assets/566504b1-6eea-4a7b-ad30-2e14c616b355)
 
 
