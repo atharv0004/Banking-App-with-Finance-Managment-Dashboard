@@ -6,17 +6,21 @@ Features
 user experience.
 5. Modern UI: Built with shadcn for a sleek and intuitive user interface, providing a seamless experience on all
 devices.
+
+
 Tech Stack
-• Next.js: A powerful React framework for server-side rendering and generating static websites, enabling fast and
+1. Next.js: A powerful React framework for server-side rendering and generating static websites, enabling fast and
 dynamic web applications.
-• shadcn: A utility-first CSS framework that provides a minimal and customizable style, enhancing the app's design
+2. shadcn: A utility-first CSS framework that provides a minimal and customizable style, enhancing the app's design
 and user experience.
-• Sentry: Integrated for error monitoring and performance tracking, ensuring a smooth and reliable user
+3. Sentry: Integrated for error monitoring and performance tracking, ensuring a smooth and reliable user
 experience.
-• Dwolla: A robust API for handling secure and efficient bank transfers.
-• Plaid: A trusted service for securely connecting your bank accounts and retrieving financial data.
-• Appwrite: An open-source backend-as-a-service platform that simplifies backend development with integrated
+4. Dwolla: A robust API for handling secure and efficient bank transfers.
+5. Plaid: A trusted service for securely connecting your bank accounts and retrieving financial data.
+6. Appwrite: An open-source backend-as-a-service platform that simplifies backend development with integrated
 authentication, database, storage, and functions.
+
+
 Screenshots
 Here are some glimpses of our app:
 ![login](https://github.com/user-attachments/assets/c287bdf3-74fe-4612-9c36-45ee1f0b6523)
